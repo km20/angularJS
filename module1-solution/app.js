@@ -20,7 +20,7 @@
                 if(nbItems > 3)
                     return "Too much!";
                 else
-                    return "Enjoy";
+                    return "Enjoy!";
             }
             
         }
